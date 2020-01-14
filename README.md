@@ -4,7 +4,7 @@
 
 In this project, the main focal point is constructing an interactive dashboard to explore the Belly Button Biodiversity DataSet.
 
-The DataSet was obtained from "The Publiuc Science Lab".
+The DataSet was obtained from "The Public Science Lab".
 
 From the Source: 
 
